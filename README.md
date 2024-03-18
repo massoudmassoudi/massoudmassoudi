@@ -26,24 +26,24 @@
 
 <br>
 
-1) Java/J2EE: ☕ Java is a widely-used programming language known for its portability and scalability, while J2EE (Java 2 Platform, Enterprise Edition) is a set of specifications for developing enterprise applications using Java.
+1) <b>Java/J2EE</b>: ☕ Java is a widely-used programming language known for its portability and scalability, while J2EE (Java 2 Platform, Enterprise Edition) is a set of specifications for developing enterprise applications using Java.
 
-2) SQL: 📊 Structured Query Language (SQL) is a standard language for managing relational databases, used for tasks such as querying and updating data.
+2) <b>SQL</b>: 📊 Structured Query Language (SQL) is a standard language for managing relational databases, used for tasks such as querying and updating data.
 
-3) MySQL Server: 🐬 MySQL is an open-source relational database management system, widely used for web applications and online publishing platforms.
+3) <b>MySQL Server</b>: 🐬 MySQL is an open-source relational database management system, widely used for web applications and online publishing platforms.
 
-4) MongoDB: 🍃 MongoDB is a popular NoSQL database, known for its flexibility and scalability, particularly suitable for handling unstructured data.
+4) <b>MongoDB</b>: 🍃 MongoDB is a popular NoSQL database, known for its flexibility and scalability, particularly suitable for handling unstructured data.
 
-5) Oracle: 🔮 Oracle is a leading provider of enterprise database solutions, offering a comprehensive range of database management products and services.
+5) <b>Oracle</b>: 🔮 Oracle is a leading provider of enterprise database solutions, offering a comprehensive range of database management products and services.
 
-6) PostgreSQL: 🐘 PostgreSQL is a powerful open-source relational database management system known for its advanced features and extensibility.
+6) <b>PostgreSQL</b>: 🐘 PostgreSQL is a powerful open-source relational database management system known for its advanced features and extensibility.
 
-7) Hibernate: 🌱 Hibernate is an object-relational mapping (ORM) framework for Java, simplifying database interactions by mapping Java objects to database tables.
+7) <b>Hibernate</b>: 🌱 Hibernate is an object-relational mapping (ORM) framework for Java, simplifying database interactions by mapping Java objects to database tables.
 
-8) Spring: 🌸 Spring is a lightweight framework for building enterprise Java applications, providing comprehensive infrastructure support for developing robust and maintainable software.
+8) <b>Spring</b>: 🌸 Spring is a lightweight framework for building enterprise Java applications, providing comprehensive infrastructure support for developing robust and maintainable software.
 
-9) Spring Boot: 🚀 Spring Boot is an extension of the Spring framework, offering a streamlined approach to building stand-alone, production-grade Spring-based applications.
+9) <b>Spring Boot</b>: 🚀 Spring Boot is an extension of the Spring framework, offering a streamlined approach to building stand-alone, production-grade Spring-based applications.
 
-10) Machine Learning: 🤖 Machine learning involves the development of algorithms and models that enable computers to learn from data and make predictions or decisions without being explicitly programmed.
+10) <b>Machine Learning</b>: 🤖 Machine learning involves the development of algorithms and models that enable computers to learn from data and make predictions or decisions without being explicitly programmed.
 
 Let's embark on a journey of innovation and excellence together! 💻🚀
